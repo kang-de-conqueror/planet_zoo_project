@@ -1,1 +1,1 @@
-# planet_zoo_animal_detection
+# planet_zoo_project
